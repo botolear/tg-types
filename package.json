@@ -1,6 +1,6 @@
 {
   "name": "@botol/tg-types",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "main": "types/index.js",
   "license": "MIT"
 }
