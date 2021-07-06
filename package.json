@@ -1,6 +1,21 @@
 {
-  "name": "@botol/tg-types",
-  "version": "0.0.4",
-  "main": "types/index.js",
-  "license": "MIT"
+    "name": "@botol/tg-types",
+    "version": "0.0.6",
+    "main": "types/index.js",
+    "license": "MIT",
+    "author": {
+        "name": "le-ar",
+        "url": "https://github.com/le-ar/"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/botolear/tg-types"
+    },
+    "keywords": [
+        "dipo",
+        "composer",
+        "telegram",
+        "tg",
+        "bot"
+    ]
 }
